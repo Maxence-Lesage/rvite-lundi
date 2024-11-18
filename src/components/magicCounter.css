@@ -1,0 +1,34 @@
+.container {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.counter {
+  border-radius: 10px;
+  color: black;
+  text-align: center;
+  padding: 0 20px;
+  font-size: 20px;
+}
+
+.classicNumber {
+  background-color: #FDEDEC;
+}
+
+.magicNumber {
+  background-color: #D4F1F4;
+}
+
+.buttonsContainer {
+  display: flex;
+  gap: 20px;
+}
+
+input {
+  font-size: 20px;
+  padding: 0 20px;
+  cursor: pointer;
+}
