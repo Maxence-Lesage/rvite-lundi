@@ -1,0 +1,8 @@
+.correct {
+  color: chartreuse;
+}
+
+.incorrect {
+  color: red;
+  font-size: 32px;
+}
